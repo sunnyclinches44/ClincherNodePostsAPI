@@ -1,0 +1,17 @@
+{
+  "name": "clinchernodepostsapi",
+  "version": "1.0.0",
+  "description": "Clincher Node Posts API",
+  "main": "app/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sandeep Pamidamarri",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "http": "0.0.0",
+    "loadash": "^1.0.0"
+  }
+}
